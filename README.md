@@ -21,7 +21,7 @@ A *Git repository* is a project folder that keeps a complete history of every sa
 The *distributed* part is that multiple copies of the repository may be kept in sync across multiple computers.
 
 **GitHub** (Microsoft), **GitLab**, **BitBucket** (Atlasian), and **Azure DevOps** (Microsoft) are the major service
-providers offering *Git hosting services*, with GitHub having the largest collection of repositories by far.
+providers offering *Git hosting services*, with GitHub having the largest collection of users and repositories by far.
 Estimates based on 2025 survey data from Stack Overflow:
 
 ![Market Share](./.assets/images/market-share.png)
