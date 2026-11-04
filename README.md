@@ -47,7 +47,7 @@ Table of contents:
 1. [Configure Git](#configure-git)
 1. [Work Locally](#work-locally)
 1. [Publish to GitHub](#publish-to-github)
-1. [Working as a Team](#work-as-a-team)
+1. [Work as a Team](#work-as-a-team)
 
 ## Create a GitHub Personal Account
 
