@@ -45,8 +45,8 @@ Table of contents:
 1. [Create a GitHub Project](#create-a-github-project)
 1. [Install Git Locally](#install-git-locally)
 1. [Configure Git](#configure-git)
-1. [Defining a Local Repository](#defining-a-local-repository)
-1. [Publish the Project to GitHub](#publish-the-project-to-github)
+1. [Defining a Local Repository](#define-a-local-repository)
+1. [Publish the Project to GitHub](#publish-to-github)
 1. [Working as a Team](#working-as-a-team)
 
 ## Create a GitHub Personal Account
