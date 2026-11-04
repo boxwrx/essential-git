@@ -45,9 +45,9 @@ Table of contents:
 1. [Create a GitHub Project](#create-a-github-project)
 1. [Install Git Locally](#install-git-locally)
 1. [Configure Git](#configure-git)
-1. [Defining a Local Repository](#define-a-local-repository)
-1. [Publish the Project to GitHub](#publish-to-github)
-1. [Working as a Team](#working-as-a-team)
+1. [Work Locally](#work-locally)
+1. [Publish to GitHub](#publish-to-github)
+1. [Working as a Team](#work-as-a-team)
 
 ## Create a GitHub Personal Account
 
@@ -227,7 +227,7 @@ $ git config --global user.name "<your name>"
 $ git config --global user.email "<your email address>"
 ```
 
-## Working locally
+## Work locally
 
 ### Set up git so the base command uses the correct SSH key
 
@@ -323,7 +323,7 @@ $ git push origin --all
 If you are the only person working on the project the second command will sync the GitHub repository with what is on
 your computer.
 
-## Working as a team
+## Work as a Team
 
 If team members are working on their own feature branches then they should be pushing commits on just those branches.
 Local changes should be staged and committed prior to doing this.
